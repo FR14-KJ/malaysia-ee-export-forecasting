@@ -51,4 +51,4 @@ See the full project report (`Project Report.pdf`) for the complete methodology,
 
 ## Related project
 
-A companion study benchmarks this ARIMA model against tuned Random Forest, SVR, and XGBoost models on the same data: [Comparative ML Forecasting](#) *(link your second repo here)*
+A companion study benchmarks this ARIMA model against tuned Random Forest, SVR, and XGBoost models on the same data: [Comparative ML Forecasting](https://github.com/FR14-KJ/malaysia-ee-export-forecasting#) 
