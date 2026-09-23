@@ -47,7 +47,7 @@ Python (statsmodels, pandas), Power BI
 - Out-of-sample validation window is small (n=3)
 - Univariate — can't anticipate shocks driven by external events
 
-See the full project report (`/docs`) for the complete methodology, EDA, and diagnostics.
+See the full project report (`Project Report.pdf`) for the complete methodology, EDA, and diagnostics.
 
 ## Related project
 
